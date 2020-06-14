@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCM_PromotionEngine", "SCM_PromotionEngine.csproj", "{4D37FF6E-A42C-4641-9F26-C358FCD789E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCM_TestPromotionEngine", "..\SCM_TestPromotionEngine\SCM_TestPromotionEngine.csproj", "{660AB612-1AC3-44E8-AB67-A8105B4CCC38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D37FF6E-A42C-4641-9F26-C358FCD789E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D37FF6E-A42C-4641-9F26-C358FCD789E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D37FF6E-A42C-4641-9F26-C358FCD789E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D37FF6E-A42C-4641-9F26-C358FCD789E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{660AB612-1AC3-44E8-AB67-A8105B4CCC38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{660AB612-1AC3-44E8-AB67-A8105B4CCC38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{660AB612-1AC3-44E8-AB67-A8105B4CCC38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{660AB612-1AC3-44E8-AB67-A8105B4CCC38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE82BABC-1F7A-443A-B270-25039D3C844A}
+	EndGlobalSection
+EndGlobal
